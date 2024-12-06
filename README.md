@@ -1,5 +1,5 @@
 # Forensicswithme
-# cach giai bai operation oni 
+# Cách giải bài OperationOni
 Theo cách của tôi để giải được bài này tôi sẽ dùng Auto spy để xem về file disk image :
 Cách tạo bạn có thể tham khảo bằng chat gpt 
 Sau khi tạo case và them file img của đề bài cho ta sẽ thấy giao diện như sau :
