@@ -1,4 +1,4 @@
-# Forensicswithme
+
 # Cách giải bài OperationOni
 Theo cách của tôi để giải được bài này tôi sẽ dùng Auto spy để xem về file disk image :
 Cách tạo bạn có thể tham khảo bằng chat gpt 
